@@ -1,7 +1,6 @@
 import com.android.build.gradle.tasks.PackageApplication
 
 apply plugin: 'android'
-apply from: 'signing.gradle'
 
 android {
     compileSdkVersion 21
